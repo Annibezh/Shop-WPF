@@ -1,0 +1,21 @@
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\DAL\bin\Debug\DAL.dll.config
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\DAL\bin\Debug\DAL.dll
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\DAL\bin\Debug\DAL.pdb
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\DAL\obj\Debug\DAL.dll
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\DAL\obj\Debug\DAL.pdb
+D:\STEP\Shop_1543442790\Shop\DAL\bin\Debug\DAL.dll.config
+D:\STEP\Shop_1543442790\Shop\DAL\bin\Debug\DAL.dll
+D:\STEP\Shop_1543442790\Shop\DAL\bin\Debug\DAL.pdb
+D:\STEP\Shop_1543442790\Shop\DAL\bin\Debug\EntityFramework.dll
+D:\STEP\Shop_1543442790\Shop\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\STEP\Shop_1543442790\Shop\DAL\bin\Debug\EntityFramework.xml
+D:\STEP\Shop_1543442790\Shop\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\STEP\Shop_1543442790\Shop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\STEP\Shop_1543442790\Shop\DAL\obj\Debug\DAL.dll
+D:\STEP\Shop_1543442790\Shop\DAL\obj\Debug\DAL.pdb

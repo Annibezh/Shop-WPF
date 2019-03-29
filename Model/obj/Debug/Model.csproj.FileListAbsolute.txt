@@ -1,0 +1,26 @@
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\bin\Debug\Model.dll.config
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\bin\Debug\Model.dll
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\bin\Debug\Model.pdb
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\bin\Debug\DAL.dll
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\bin\Debug\EntityFramework.dll
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\bin\Debug\DAL.pdb
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\bin\Debug\DAL.dll.config
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\bin\Debug\EntityFramework.xml
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\obj\Debug\Model.dll
+C:\Users\Anna\Documents\Visual Studio 2017\Projects\Shop\Model\obj\Debug\Model.pdb
+D:\STEP\Shop_1543442790\Shop\Model\bin\Debug\Model.dll.config
+D:\STEP\Shop_1543442790\Shop\Model\bin\Debug\Model.dll
+D:\STEP\Shop_1543442790\Shop\Model\bin\Debug\Model.pdb
+D:\STEP\Shop_1543442790\Shop\Model\bin\Debug\DAL.dll
+D:\STEP\Shop_1543442790\Shop\Model\bin\Debug\EntityFramework.dll
+D:\STEP\Shop_1543442790\Shop\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\STEP\Shop_1543442790\Shop\Model\bin\Debug\DAL.pdb
+D:\STEP\Shop_1543442790\Shop\Model\bin\Debug\EntityFramework.xml
+D:\STEP\Shop_1543442790\Shop\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\STEP\Shop_1543442790\Shop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\STEP\Shop_1543442790\Shop\Model\obj\Debug\Model.dll
+D:\STEP\Shop_1543442790\Shop\Model\obj\Debug\Model.pdb
